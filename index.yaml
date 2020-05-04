@@ -3,12 +3,23 @@ entries:
   my-hello:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-03T23:13:49.5616177-07:00"
+    created: "2020-05-03T23:40:09.7449736-07:00"
     description: A Helm chart for Kubernetes
     digest: 55ec916548c88f31b7be161aefa9554598a3db6d90b4f6917ab28ace29437c25
     name: my-hello
     type: application
     urls:
-    - https://github.com/jamesqjl/charts/my-hello-0.1.0.tgz
+    - https://jamesqjl.github.io/charts/my-hello-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-03T23:13:49.5606217-07:00"
+  my-test2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-03T23:40:09.7449736-07:00"
+    description: A Helm chart for Kubernetes
+    digest: a9887bfa9cc27108cde2cb9a74d13b8812028b063c064b486430010a039a94d0
+    name: my-test2
+    type: application
+    urls:
+    - https://jamesqjl.github.io/charts/my-test2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-03T23:40:09.7429735-07:00"
