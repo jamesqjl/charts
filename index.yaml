@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-hello:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-03T23:13:49.5616177-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 55ec916548c88f31b7be161aefa9554598a3db6d90b4f6917ab28ace29437c25
+    name: my-hello
+    type: application
+    urls:
+    - https://github.com/jamesqjl/charts/my-hello-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-03T23:13:49.5606217-07:00"
